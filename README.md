@@ -1,1 +1,2 @@
-# Aanya-sgamekickstart
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
